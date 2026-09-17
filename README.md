@@ -74,14 +74,13 @@ I enjoy building practical projects that combine **Python, data, AI, and automat
 **AI DevOps Intern — Rooman Technologies**
 Worked on data preparation, AI/ML-related tasks, dashboards and DevOps simulation projects.
 
-**Digital Marketing Consultant Trainee — Trilliant Digital**
-Working with digital marketing analytics, Google Ads, GA4 and AI-powered automation workflows.
+
 
 ### 🎯 Career Interests
 
-I'm interested in opportunities where **AI + automation + data + business** come together.
+I'm interested in opportunities where **AI + automation + data ** come together.
 
-My long-term goal is to build practical **AI agents and intelligent automation systems** that can reduce repetitive work and help businesses make better decisions.
+My long-term goal is to build practical **AI agents and intelligent automation systems** that can reduce repetitive work and help  make better decisions.
 
 ### 📫 Connect With Me
 
